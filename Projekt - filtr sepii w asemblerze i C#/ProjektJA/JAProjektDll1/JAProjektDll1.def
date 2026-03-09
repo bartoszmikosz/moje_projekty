@@ -1,0 +1,4 @@
+; JAProjektDll1.def
+LIBRARY BitmapAsm
+EXPORTS
+    ModifyPixel
