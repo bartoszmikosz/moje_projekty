@@ -1,0 +1,86 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/Bartek Bartosław/.m2/repository/org/projectlombok/lombok/1.18.36/lombok-1.18.36.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/platform/jakarta.jakartaee-api/11.0.0-M1/jakarta.jakartaee-api-11.0.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/11.0.0-M1/jakarta.jakartaee-web-api-11.0.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.1.0-M1/jakarta.servlet-api-6.1.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/4.0.0-M1/jakarta.servlet.jsp-api-4.0.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/data/jakarta-data-api/1.0.0-M1/jakarta-data-api-1.0.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-el-api/4.1.0-M1/jakarta.enterprise.cdi-el-api-4.1.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/el/jakarta.el-api/6.0.0-M1/jakarta.el-api-6.0.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/faces/jakarta.faces-api/4.1.0-M1/jakarta.faces-api-4.1.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/websocket/jakarta.websocket-api/2.2.0-M1/jakarta.websocket-api-2.2.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/websocket/jakarta.websocket-client-api/2.2.0-M1/jakarta.websocket-client-api-2.2.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/ejb/jakarta.ejb-api/4.0.1/jakarta.ejb-api-4.0.1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.2.0-M1/jakarta.persistence-api-3.2.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/validation/jakarta.validation-api/3.1.0-M1/jakarta.validation-api-3.1.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/authentication/jakarta.authentication-api/3.1.0-M1/jakarta.authentication-api-3.1.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/security/enterprise/jakarta.security.enterprise-api/4.0.0-M1/jakarta.security.enterprise-api-4.0.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/enterprise/concurrent/jakarta.enterprise.concurrent-api/3.1.0-M1/jakarta.enterprise.concurrent-api-3.1.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/platform/jakarta.jakartaee-core-api/11.0.0-M1/jakarta.jakartaee-core-api-11.0.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/3.1.0/jakarta.ws.rs-api-3.1.0.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/json/jakarta.json-api/2.1.0/jakarta.json-api-2.1.0.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/annotation/jakarta.annotation-api/3.0.0-M1/jakarta.annotation-api-3.0.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.2.0-M1/jakarta.interceptor-api-2.2.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/4.1.0-M1/jakarta.enterprise.cdi-api-4.1.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/enterprise/jakarta.enterprise.lang-model/4.1.0-M1/jakarta.enterprise.lang-model-4.1.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/jms/jakarta.jms-api/3.1.0/jakarta.jms-api-3.1.0.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.2/jakarta.activation-api-2.1.2.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.2/jakarta.mail-api-2.1.2.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/resource/jakarta.resource-api/2.1.0/jakarta.resource-api-2.1.0.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/authorization/jakarta.authorization-api/3.0.0-M1/jakarta.authorization-api-3.0.0-M1.jar;C:/Users/Bartek Bartosław/.m2/repository/jakarta/batch/jakarta.batch-api/2.1.1/jakarta.batch-api-2.1.1.jar;C:/Users/Bartek Bartosław/.m2/repository/com/google/code/gson/gson/2.13.2/gson-2.13.2.jar;C:/Users/Bartek Bartosław/.m2/repository/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/Bartek Bartosław/Downloads/Mikosz.Bartosz.cw5.prototyp/WebLab5/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Bartek Bartosław/Downloads/Mikosz.Bartosz.cw5.prototyp/WebLab5/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'WebLab5-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'WebLab5-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+com.mycompany.weblab5
+com.mycompany.weblab5.resources
+C:\Users\Bartek Bartosław\.m2\repository\org\projectlombok\lombok\1.18.36\lombok-1.18.36.jar = 1764427773212
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\platform\jakarta.jakartaee-api\11.0.0-M1\jakarta.jakartaee-api-11.0.0-M1.jar = 1767803109379
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\platform\jakarta.jakartaee-web-api\11.0.0-M1\jakarta.jakartaee-web-api-11.0.0-M1.jar = 1767803109477
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.1.0-M1\jakarta.servlet-api-6.1.0-M1.jar = 1767803109460
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\servlet\jsp\jakarta.servlet.jsp-api\4.0.0-M1\jakarta.servlet.jsp-api-4.0.0-M1.jar = 1767803109497
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\data\jakarta-data-api\1.0.0-M1\jakarta-data-api-1.0.0-M1.jar = 1767803109477
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\enterprise\jakarta.enterprise.cdi-el-api\4.1.0-M1\jakarta.enterprise.cdi-el-api-4.1.0-M1.jar = 1767803109487
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\el\jakarta.el-api\6.0.0-M1\jakarta.el-api-6.0.0-M1.jar = 1767803109506
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\3.0.0\jakarta.servlet.jsp.jstl-api-3.0.0.jar = 1767803109534
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\faces\jakarta.faces-api\4.1.0-M1\jakarta.faces-api-4.1.0-M1.jar = 1767803109576
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\websocket\jakarta.websocket-api\2.2.0-M1\jakarta.websocket-api-2.2.0-M1.jar = 1767803109541
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\websocket\jakarta.websocket-client-api\2.2.0-M1\jakarta.websocket-client-api-2.2.0-M1.jar = 1767803109565
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\ejb\jakarta.ejb-api\4.0.1\jakarta.ejb-api-4.0.1.jar = 1767803109569
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar = 1767803109587
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.2.0-M1\jakarta.persistence-api-3.2.0-M1.jar = 1767803109619
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\validation\jakarta.validation-api\3.1.0-M1\jakarta.validation-api-3.1.0-M1.jar = 1767803109628
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\authentication\jakarta.authentication-api\3.1.0-M1\jakarta.authentication-api-3.1.0-M1.jar = 1767803109619
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\security\enterprise\jakarta.security.enterprise-api\4.0.0-M1\jakarta.security.enterprise-api-4.0.0-M1.jar = 1767803109625
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\enterprise\concurrent\jakarta.enterprise.concurrent-api\3.1.0-M1\jakarta.enterprise.concurrent-api-3.1.0-M1.jar = 1767803109640
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\platform\jakarta.jakartaee-core-api\11.0.0-M1\jakarta.jakartaee-core-api-11.0.0-M1.jar = 1767803109670
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\ws\rs\jakarta.ws.rs-api\3.1.0\jakarta.ws.rs-api-3.1.0.jar = 1767803109669
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\json\jakarta.json-api\2.1.0\jakarta.json-api-2.1.0.jar = 1767803109670
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\json\bind\jakarta.json.bind-api\3.0.0\jakarta.json.bind-api-3.0.0.jar = 1767803109691
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\annotation\jakarta.annotation-api\3.0.0-M1\jakarta.annotation-api-3.0.0-M1.jar = 1767803109688
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\interceptor\jakarta.interceptor-api\2.2.0-M1\jakarta.interceptor-api-2.2.0-M1.jar = 1767803109714
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\enterprise\jakarta.enterprise.cdi-api\4.1.0-M1\jakarta.enterprise.cdi-api-4.1.0-M1.jar = 1767803109721
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar = 1767803109721
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\enterprise\jakarta.enterprise.lang-model\4.1.0-M1\jakarta.enterprise.lang-model-4.1.0-M1.jar = 1767803109744
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\jms\jakarta.jms-api\3.1.0\jakarta.jms-api-3.1.0.jar = 1767803109738
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.2\jakarta.activation-api-2.1.2.jar = 1767803109775
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\mail\jakarta.mail-api\2.1.2\jakarta.mail-api-2.1.2.jar = 1767803109779
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\resource\jakarta.resource-api\2.1.0\jakarta.resource-api-2.1.0.jar = 1767803109767
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\authorization\jakarta.authorization-api\3.0.0-M1\jakarta.authorization-api-3.0.0-M1.jar = 1767803109791
+C:\Users\Bartek Bartosław\.m2\repository\jakarta\batch\jakarta.batch-api\2.1.1\jakarta.batch-api-2.1.1.jar = 1767803109800
+C:\Users\Bartek Bartosław\.m2\repository\com\google\code\gson\gson\2.13.2\gson-2.13.2.jar = 1765357813265
+C:\Users\Bartek Bartosław\.m2\repository\com\google\errorprone\error_prone_annotations\2.41.0\error_prone_annotations-2.41.0.jar = 1765357813505
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\src\main\java = 1767803037974
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\allclasses-index.html = 1767808318230
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\allpackages-index.html = 1767808318233
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\copy.svg = 1767808318322
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\element-list = 1767808318053
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\help-doc.html = 1767808318293
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\index-all.html = 1767808318279
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\index.html = 1767808318199
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\link.svg = 1767808318325
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\member-search-index.js = 1767808318252
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\module-search-index.js = 1767808318235
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\overview-summary.html = 1767808318287
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\overview-tree.html = 1767808318191
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\package-search-index.js = 1767808318237
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\script.js = 1767808318320
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\search-page.js = 1767808318332
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\search.html = 1767808318283
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\search.js = 1767808318330
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\serialized-form.html = 1767808318096
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\stylesheet.css = 1767808318296
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\tag-search-index.js = 1767808318258
+C:\Users\Bartek Bartosław\Downloads\Mikosz.Bartosz.cw5.prototyp\WebLab5\target\reports\apidocs\type-search-index.js = 1767808318239

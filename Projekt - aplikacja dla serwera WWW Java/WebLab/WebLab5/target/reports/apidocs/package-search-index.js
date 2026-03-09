@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.weblab5"},{"l":"com.mycompany.weblab5.resources"}];updateSearchResults();

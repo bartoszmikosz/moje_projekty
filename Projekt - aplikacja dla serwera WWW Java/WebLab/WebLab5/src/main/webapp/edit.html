@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edycja posta</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Edytuj istniejący post</h1>
+    <form action="manage" method="POST">
+        <input type="hidden" name="action" value="edit">
+        
+        Indeks posta: <input type="text" name="id" id="edit-id" readonly><br>
+        
+        Nowy autor: <input type="text" name="author"><br>
+        Nowa data: <input type="text" name="date"><br>
+        Nowa treść:<br>
+        <textarea name="content" rows="5" cols="30"></textarea><br>
+        
+        <input type="submit" value="Zatwierdź zmiany">
+    </form>
+
+    <script>
+        // Pobieramy parametry z adresu URL (np. ?id=2)
+        const params = new URLSearchParams(window.location.search);
+        const id = params.get('id');
+        
+        // Sprawdzamy, czy id istnieje w adresie
+        if (id !== null) {
+            // Szukamy elementu po ID "edit-id" (które dodaliśmy wyżej) i wpisujemy wartość
+            document.getElementById('edit-id').value = id;
+        }
+    </script>
+    <br>
+    <a href="view">Powrót do listy</a>
+</body>
+</html>

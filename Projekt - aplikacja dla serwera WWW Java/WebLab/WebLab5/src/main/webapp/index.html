@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Mój blog</title><meta charset="UTF-8"></head>
+    <body>
+        <h1>Dodaj nowy post</h1>
+        <form action="manage" method="POST">
+            <input type="hidden" name="action" value="add">
+            Autor: <input type="text" name="author"><br>
+            Data: <input type="text" name="date" placeholder="YYYY-MM-DD"><br>
+            Zawartość:<br>
+            <textarea name="content" rows="5" cols="30"></textarea><br>
+            <input type="submit" value="Dodaj">
+        </form>
+        <hr>
+        <a href="view">Pokaż wszystkie posty</a>
+    </body>
+</html>

@@ -1,0 +1,11 @@
+com\mycompany\weblab5\BlogController.class
+com\mycompany\weblab5\BlogModel.class
+com\mycompany\weblab5\ViewServlet.class
+com\mycompany\weblab5\IDCode.class
+com\mycompany\weblab5\resources\JakartaEE11Resource.class
+com\mycompany\weblab5\Column.class
+com\mycompany\weblab5\RandomLetter.class
+com\mycompany\weblab5\BlogInitializer.class
+com\mycompany\weblab5\BlogPost.class
+com\mycompany\weblab5\JakartaRestConfiguration.class
+com\mycompany\weblab5\BlogException.class
